@@ -1,0 +1,8 @@
+# No external dependencies required - uses built-in Python modules
+# tkinter (built-in)
+# sqlite3 (built-in)
+# datetime (built-in)
+# re (built-in)
+
+# run this to activate venv in fish shell
+#  /home/tokita-ohma/BX/Attendance-Tracker/venv/bin/activate.fish
