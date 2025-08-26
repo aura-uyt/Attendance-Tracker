@@ -1,8 +1,22 @@
-# No external dependencies required - uses built-in Python modules
-# tkinter (built-in)
-# sqlite3 (built-in)
-# datetime (built-in)
-# re (built-in)
+# Attendance Tracker Dependencies
+# All dependencies are built-in Python modules - no external packages required
 
-# run this to activate venv in fish shell
-#  /home/tokita-ohma/BX/Attendance-Tracker/venv/bin/activate.fish
+# Core dependencies (built-in):
+# - tkinter: GUI framework
+# - sqlite3: Database management
+# - datetime: Date/time handling
+# - re: Regular expressions
+# - json: Configuration management
+# - csv: Data export functionality
+# - logging: Application logging
+# - pathlib: File path handling
+
+# Python version requirement: 3.6+
+# No pip install required - all modules are included with Python
+
+# Optional: For development
+# pytest>=6.0.0  # For unit testing (uncomment if adding tests)
+# black>=21.0.0   # For code formatting (uncomment if using)
+
+# Virtual environment activation (fish shell):
+# source /home/tokita-ohma/BX/Attendance-Tracker/venv/bin/activate.fish

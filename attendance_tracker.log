@@ -1,0 +1,24 @@
+2025-08-26 02:35:37,705 - INFO - Database initialized successfully
+2025-08-26 02:35:37,705 - INFO - Loaded 13 courses
+2025-08-26 02:35:37,706 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:35:49,582 - INFO - Database initialized successfully
+2025-08-26 02:35:49,583 - INFO - Loaded 13 courses
+2025-08-26 02:35:49,583 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:41:05,910 - INFO - Database initialized successfully
+2025-08-26 02:41:05,911 - INFO - Loaded 13 courses
+2025-08-26 02:41:05,911 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:41:42,173 - INFO - Database initialized successfully
+2025-08-26 02:41:42,173 - INFO - Loaded 13 courses
+2025-08-26 02:41:42,174 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:43:20,802 - INFO - Database initialized successfully
+2025-08-26 02:43:20,802 - INFO - Loaded 13 courses
+2025-08-26 02:43:20,823 - ERROR - Application failed to start: expected integer but got "Arial"
+2025-08-26 02:43:43,718 - INFO - Database initialized successfully
+2025-08-26 02:43:43,718 - INFO - Loaded 13 courses
+2025-08-26 02:43:43,742 - ERROR - Application failed to start: expected integer but got "Arial"
+2025-08-26 02:45:11,907 - INFO - Database initialized successfully
+2025-08-26 02:45:11,907 - INFO - Loaded 13 courses
+2025-08-26 02:45:44,585 - INFO - Database initialized successfully
+2025-08-26 02:45:44,585 - INFO - Loaded 13 courses
+2025-08-26 11:31:05,977 - INFO - Database initialized successfully
+2025-08-26 11:31:05,977 - INFO - Loaded 13 courses

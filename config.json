@@ -1,0 +1,11 @@
+{
+  "font_family": [
+    "Segoe UI",
+    "Arial",
+    "sans-serif"
+  ],
+  "theme": "light",
+  "window_size": "1000x700",
+  "auto_backup": true,
+  "backup_interval_days": 7
+}
