@@ -27,7 +27,7 @@ A modern GUI application to track and calculate your attendance percentage for a
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aura-uyt/Attendance-Tracker.git
    cd Attendance-Tracker
    ```
 

@@ -1,0 +1,57 @@
+2025-08-26 02:35:37,705 - INFO - Database initialized successfully
+2025-08-26 02:35:37,705 - INFO - Loaded 13 courses
+2025-08-26 02:35:37,706 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:35:49,582 - INFO - Database initialized successfully
+2025-08-26 02:35:49,583 - INFO - Loaded 13 courses
+2025-08-26 02:35:49,583 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:41:05,910 - INFO - Database initialized successfully
+2025-08-26 02:41:05,911 - INFO - Loaded 13 courses
+2025-08-26 02:41:05,911 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:41:42,173 - INFO - Database initialized successfully
+2025-08-26 02:41:42,173 - INFO - Loaded 13 courses
+2025-08-26 02:41:42,174 - ERROR - Application failed to start: can only concatenate list (not "tuple") to list
+2025-08-26 02:43:20,802 - INFO - Database initialized successfully
+2025-08-26 02:43:20,802 - INFO - Loaded 13 courses
+2025-08-26 02:43:20,823 - ERROR - Application failed to start: expected integer but got "Arial"
+2025-08-26 02:43:43,718 - INFO - Database initialized successfully
+2025-08-26 02:43:43,718 - INFO - Loaded 13 courses
+2025-08-26 02:43:43,742 - ERROR - Application failed to start: expected integer but got "Arial"
+2025-08-26 02:45:11,907 - INFO - Database initialized successfully
+2025-08-26 02:45:11,907 - INFO - Loaded 13 courses
+2025-08-26 02:45:44,585 - INFO - Database initialized successfully
+2025-08-26 02:45:44,585 - INFO - Loaded 13 courses
+2025-08-26 11:31:05,977 - INFO - Database initialized successfully
+2025-08-26 11:31:05,977 - INFO - Loaded 13 courses
+2025-08-26 11:47:27,795 - INFO - Database initialized successfully
+2025-08-26 11:47:27,795 - INFO - Loaded 13 courses
+2025-08-26 11:52:44,741 - INFO - Uploaded 4 records successfully
+2025-08-26 11:53:11,475 - INFO - Uploaded 4 records successfully
+2025-08-26 11:53:29,384 - INFO - Uploaded 5 records successfully
+2025-08-26 11:53:46,931 - INFO - Uploaded 4 records successfully
+2025-08-26 11:54:51,122 - INFO - Uploaded 6 records successfully
+2025-08-26 11:56:38,508 - INFO - Uploaded 3 records successfully
+2025-08-26 11:56:53,213 - INFO - Uploaded 3 records successfully
+2025-08-26 11:57:22,706 - INFO - Uploaded 3 records successfully
+2025-08-26 11:57:37,607 - INFO - Uploaded 3 records successfully
+2025-08-26 11:57:57,072 - INFO - Uploaded 3 records successfully
+2025-08-26 11:58:25,669 - INFO - Uploaded 4 records successfully
+2025-08-26 11:58:40,719 - INFO - Uploaded 5 records successfully
+2025-08-26 11:59:07,058 - INFO - Uploaded 5 records successfully
+2025-08-26 11:59:24,325 - INFO - Uploaded 2 records successfully
+2025-08-26 11:59:50,305 - INFO - Uploaded 2 records successfully
+2025-08-26 12:00:11,444 - INFO - Uploaded 2 records successfully
+2025-08-26 12:00:36,656 - INFO - Uploaded 3 records successfully
+2025-08-26 12:02:29,985 - INFO - Uploaded 3 records successfully
+2025-08-26 12:10:24,157 - INFO - Uploaded 4 records successfully
+2025-08-26 12:11:12,233 - INFO - Data exported to /home/tokita-ohma/BX/Attendance-Tracker/uday26-08.csv
+2025-08-26 12:11:16,826 - ERROR - Failed to backup database: bad option "-initialvalue": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+2025-08-26 14:32:34,296 - INFO - Database initialized successfully
+2025-08-26 14:32:34,297 - INFO - Loaded 13 courses
+2025-08-26 14:34:03,932 - INFO - Uploaded 5 records successfully
+2025-08-26 14:34:22,230 - INFO - Uploaded 3 records successfully
+2025-08-26 14:56:38,344 - INFO - Database initialized successfully
+2025-08-26 14:56:38,344 - INFO - Loaded 13 courses
+2025-08-26 14:56:55,474 - INFO - Uploaded 5 records successfully
+2025-08-26 14:57:10,930 - INFO - Uploaded 2 records successfully
+2025-08-26 21:49:09,936 - INFO - Database initialized successfully
+2025-08-26 21:49:09,937 - INFO - Loaded 13 courses
